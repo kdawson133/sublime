@@ -1,4 +1,4 @@
-# sblime
+# sublime
 
 Plugin for [Sublime Text](https://www.sublimetext.com/), a cross platform text and code editor,
 available for Linux, macOS, and Windows.
