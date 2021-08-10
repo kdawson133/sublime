@@ -1,4 +1,4 @@
-# Sublime ext aliases
+# Sublime Text aliases
 
 alias st=subl
 alias stt='subl .'
@@ -120,4 +120,4 @@ function create_project() {
     echo -e "New Sublime Text project created:\n\t${_sublime_project_file}"
   fi
 }
-T
+
